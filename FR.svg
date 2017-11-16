@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="3600pt" height="2400pt" viewBox="0 0 3600 2400"
+ preserveAspectRatio="xMidYMid meet">
+
+<rect x="0" y="0" width="1200" height="2400" fill="#0050A4" />
+<rect x="1200" y="0" width="1200" height="2400" fill="#FFFFFF" />
+<rect x="2400" y="0" width="1200" height="2400" fill="#EF4135" />
+</svg>

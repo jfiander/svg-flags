@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="3600pt" height="1800pt" viewBox="0 0 3600 1800"
+ preserveAspectRatio="xMidYMid meet">
+
+ <defs>
+  <g id="saltire-stripe">
+    <rect x="0" y="0" width="5000" height="360" fill="#FFFFFF" />
+    <rect x="0" y="180" width="2500" height="120" fill="#C8102E" />
+    <rect x="2500" y="60" width="2500" height="120" fill="#C8102E" />
+<!--<line x1="0" x2="5000" y1="0" y2="0" stroke="black" />
+    <line x1="0" x2="5000" y1="60" y2="60" stroke="black" />
+    <line x1="0" x2="5000" y1="120" y2="120" stroke="black" />
+    <line x1="0" x2="5000" y1="180" y2="180" stroke="black" />
+    <line x1="0" x2="5000" y1="240" y2="240" stroke="black" />
+    <line x1="0" x2="5000" y1="300" y2="300" stroke="black" />
+    <line x1="0" x2="5000" y1="360" y2="360" stroke="black" /> -->
+  </g>
+</defs>
+
+<rect x="0" y="0" width="3600" height="1800" fill="#012169" />
+<use href="#saltire-stripe" transform="translate(-325, -360) rotate(26.5)" />
+<use href="#saltire-stripe" transform="translate(-400, 1794) rotate(-26.5)" />
+
+<polyline points="1500,0 2100,0 2100,600 3600,600 3600,1200 2100,1200 2100,1800 1500,1800 1500,1200 0,1200 0,600 1500,600 1500,0" fill="#FFFFFF" />
+<polyline points="1620,0 1980,0 1980,720 3600,720 3600,1080 1980,1080 1980,1800 1620,1800 1620,1080 0,1080 0,720 1620,720 1620,0" fill="#C8102E" />
+
+</svg>
