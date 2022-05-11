@@ -7,6 +7,7 @@
 
 <g transform="translate(0, 1800) scale(0.300000,-0.300000)" fill="#DA291C" stroke="none">
   <rect x="0" y="0" width="3000" height="6000" />
+  <rect x="3000" y="0" width="6000" height="6000" fill="#FFFFFF" />
   <rect x="9000" y="0" width="3000" height="6000" />
   <path d="M5880 4738 c-95 -189 -184 -358 -198 -376 -21 -29 -29 -33 -53 -28
     -31 6 -133 62 -288 159 -51 32 -95 57 -96 55 -1 -2 26 -142 61 -313 35 -170
