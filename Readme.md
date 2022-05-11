@@ -1,3 +1,3 @@
 # SVG Flags
 
-Generated, exact-to-specifications national flags.
+Generated, exact-to-specifications national and organizational flags.
